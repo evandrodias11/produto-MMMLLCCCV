@@ -1,6 +1,6 @@
 # produto-MMMLLCCCV
  
-Suponha  que  uma  fábrica  utilize  como  código  de  produto,  um  número  inteiro  no  formato MMMLLCCCV, onde: 
+Suponha  que  uma  fábrica  utilize  como  código  de  produto,  um  número  inteiro  no  formato MMMLLCCCV, onde: <br>
 •   Os  três  primeiros  dígitos,  representados  pela  letra  M,  correspondem  ao  modelo do produto;
 •   Os  dois  dígitos  seguintes,  representados  pela  letra  L,  correspondem  ao  número do lote; <br>
 •   Os três dígitos seguintes, representados pela letra C, correspondem ao código da cor (01-Vermelho; 02-Preto; 03-Amarelo); <br>
